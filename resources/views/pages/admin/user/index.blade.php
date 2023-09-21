@@ -6,7 +6,7 @@
 
 @section('container')
     <main>
-        <header class="page-header page-header-dark bg-gradient-primary-to-secondary pb-10">
+        <header class="page-header page-header-dark border-bottom border-3 border-success bg-dark pb-10">
             <div class="container-xl px-4">
                 <div class="page-header-content pt-4">
                     <div class="row align-items-center justify-content-between">
@@ -33,8 +33,8 @@
         <div class="container-xl px-4 mt-n10">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="card card-header-actions mb-4">
-                        <div class="card-header">
+                    <div class="card card-header-actions mb-4 bg-dark border-success border-3 border">
+                        <div class="card-header border-bottom border-2 border-success bg-dark bg-gradient text-success">
                             List Pengguna
                             <a class="btn btn-sm btn-primary" href="{{ route('user.create') }}">
                                 Tambah Pengguna Baru
@@ -59,7 +59,7 @@
                                 </div>
                             @endif
                             {{-- List Data --}}
-                            <table class="table table-striped table-hover table-sm" id="crudTable">
+                            <table class="table table-striped table-hover table-sm table-dark" id="crudTable">
                                 <thead>
                                     <tr>
                                         <th width="10">No.</th>
