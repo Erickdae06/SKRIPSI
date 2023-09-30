@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T06:05:37.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ol8pigUVkYawW6VJN76V" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-30T06:06:59.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eGBcG79jf_uZiH6XZBGG" version="22.0.0" type="github" pages="7">
   <diagram name="Login" id="Pct-kdnEl-3eTzmWrIL7">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,10 +142,10 @@
         <mxCell id="mRYkos9k2i2IgEiYXYfV-6" value="Validasi &lt;br&gt;ketentuan&amp;nbsp;&lt;br&gt;inputan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="mRYkos9k2i2IgEiYXYfV-1">
           <mxGeometry x="-539.99" y="430" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mRYkos9k2i2IgEiYXYfV-7" value="Simpan &amp;amp; update data user baru ke db" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="mRYkos9k2i2IgEiYXYfV-1">
+        <mxCell id="mRYkos9k2i2IgEiYXYfV-7" value="Simpan &amp;amp; update data departemen baru ke db" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="mRYkos9k2i2IgEiYXYfV-1">
           <mxGeometry x="-544.21" y="600" width="128.44" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mRYkos9k2i2IgEiYXYfV-8" value="Input&amp;nbsp; Nama Departmene" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="mRYkos9k2i2IgEiYXYfV-1">
+        <mxCell id="mRYkos9k2i2IgEiYXYfV-8" value="Input&amp;nbsp;&lt;br&gt;&amp;nbsp;Nama Departmen" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="mRYkos9k2i2IgEiYXYfV-1">
           <mxGeometry x="-546.66" y="310" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mRYkos9k2i2IgEiYXYfV-9" value="Tampilkan Menu &lt;br&gt;&amp;nbsp;Departemen" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="mRYkos9k2i2IgEiYXYfV-1">
@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hapus User" id="TsxxE2qlL_Vc3bhxX1WB">
-    <mxGraphModel dx="2577" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UUEdla0ImArN64O7M1Oq-0" />
         <mxCell id="UUEdla0ImArN64O7M1Oq-1" parent="UUEdla0ImArN64O7M1Oq-0" />
@@ -383,8 +383,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Hapus User" id="3P519saUhUNmvisJdQZR">
-    <mxGraphModel dx="1877" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="hapus departemen" id="3P519saUhUNmvisJdQZR">
+    <mxGraphModel dx="2062" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SiYksPhg13UM6iBdiygP-0" />
         <mxCell id="SiYksPhg13UM6iBdiygP-1" parent="SiYksPhg13UM6iBdiygP-0" />
@@ -404,7 +404,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiYksPhg13UM6iBdiygP-6" value="Update data&lt;br&gt;&amp;nbsp;user ke db" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
+        <mxCell id="SiYksPhg13UM6iBdiygP-6" value="Update data&lt;br&gt;&amp;nbsp;departemen ke db" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
           <mxGeometry x="-514.1500000000001" y="570" width="128.44" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SiYksPhg13UM6iBdiygP-7" value="Pilih hapus" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
@@ -413,10 +413,10 @@
         <mxCell id="SiYksPhg13UM6iBdiygP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SiYksPhg13UM6iBdiygP-1" source="SiYksPhg13UM6iBdiygP-9" target="SiYksPhg13UM6iBdiygP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SiYksPhg13UM6iBdiygP-9" value="Tampilkan Menu &lt;br&gt;User" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
+        <mxCell id="SiYksPhg13UM6iBdiygP-9" value="Tampilkan Menu &lt;br&gt;Departemen" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
           <mxGeometry x="-523.27" y="210" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SiYksPhg13UM6iBdiygP-10" value="pilih user yang diedit berdasarkan id" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
+        <mxCell id="SiYksPhg13UM6iBdiygP-10" value="pilih departemen yang diedit berdasarkan id" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="SiYksPhg13UM6iBdiygP-1">
           <mxGeometry x="-509.93000000000006" y="310" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SiYksPhg13UM6iBdiygP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.54;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SiYksPhg13UM6iBdiygP-1" source="SiYksPhg13UM6iBdiygP-10">
